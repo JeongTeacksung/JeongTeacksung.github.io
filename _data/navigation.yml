@@ -14,7 +14,7 @@ docs:
         url: "https://jeongteacksung.github.io/react/first/"
 
 gitDocs:
-  - title: "React"
+  - title: "GitHub Blog"
     children: 
       - title: "React 기초 1강 : 리액트 설치와 셋팅법"
         url: "https://jeongteacksung.github.io/react/first/"
