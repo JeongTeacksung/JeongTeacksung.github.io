@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "React"
+  - title: "career"
+    url: /career/
+  - title: "Study Category"
     url: /categories/
-  - title: "GitHub Blog"
-    url: /categories-githubblog/
   - title: "Search"
     url: /search/
 
