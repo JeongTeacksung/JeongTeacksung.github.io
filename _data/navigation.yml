@@ -49,7 +49,7 @@ gitDocs:
         url: "https://jeongteacksung.github.io/githubblog/step11/"
       - title: "12 : 공지사항(Notice), 버튼 추가"
         url: "https://jeongteacksung.github.io/githubblog/step12/"
-  javaScriptDocs:
+javaScriptDocs:
   - title: "JavaScript"
     children: 
       - title: "01 : Memo1 (Type, Arrow Function)"
